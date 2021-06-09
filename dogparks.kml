@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Bay Woof's SF Bay Area Dog Park Map]]></name>
+    <description><![CDATA[The Bay Area offers many acres of beautiful open space where you and your canine pals can run and roam -- including bayside trails, redwood hikes, city parks, and more. This comprehensive map can help you discover the best places for on-leash walks and off-leash play. Just click and drag to navigate, then click on any pin for name and address information.<br><br>See you and your dogs out and about!]]></description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>SF Bay Area Dog Parks and Play Areas</name>
+      <Placemark>
+        <name>Alameda Small Dog Park</name>
+        <description>Dogs 30 lbs. and under (Beast of the Bay 2013 Best Dog Park runner-up)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.272522,37.767717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alamo Square Dog Play Area</name>
+        <description><![CDATA[Fulton St & Scott St. side of park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.435503,37.77638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Albany Bulb</name>
+        <description><![CDATA[1 Buchanan St., Albany, CA<br>“Endless” paths to explore; high tides may minimize beach access. Formerly a landfill.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.325632,37.889606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alston Park Off-Leash Dog Area</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.335551,38.320784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aptos Polo Grounds Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUE2r3IOb_d37CkHI8UYgJMJYiDhYAzdgB67rljmR6dpDuJm9FTZmVeEIMTLm7PHzLfjee_1x6bzUmPw1HkBqmeHe-cmZ0mYXJurGzesMPRLeQidqJOvD16O0WhNYG1KyIL8laX8Pg_Dz5AXyBjIJwqYo3B45mBw39Z9" height="200" width="auto" /><br><br>2255 Huntington Dr., Aptos, CA 95003<br><br>Busy 1-acre dog park featuring water sources within 62-acre community park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUE2r3IOb_d37CkHI8UYgJMJYiDhYAzdgB67rljmR6dpDuJm9FTZmVeEIMTLm7PHzLfjee_1x6bzUmPw1HkBqmeHe-cmZ0mYXJurGzesMPRLeQidqJOvD16O0WhNYG1KyIL8laX8Pg_Dz5AXyBjIJwqYo3B45mBw39Z9</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.877796,36.981131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayfront Park / Mill Valley Dog Park</name>
+        <description>Off-leash; partially fenced; reportedly one of the nation’s “most enjoyable and scenic dog parks,” with bay to mountain views, an agility station, and dog beach</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.522777,37.895206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baylands Nature Preserve</name>
+        <description><![CDATA[2500 Embarcadero Rd., Palo Alto, CA<br><br>Dogs on-leash; 15 miles of multi-use trails through 1,940 acres of undisturbed marshlands.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.107029,37.459598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayside Park Dog Play Area</name>
+        <description><![CDATA[1125 Airport Blvd<br>Burlingame, CA 94010<br><br>Get Directions<br>burlingame.org]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.358685,37.590635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bayview Trail (EBRPD)</name>
+        <description>Point Pinole Regional Shoreline, 12 miles of “comfortably” rocked trails along the Point Pinole shoreline</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.354616,38.000129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bean Hollow State Beach</name>
+        <description><![CDATA[Highway 101 at Bean Hollow Road, Pescadero, CA<br>Dogs on-leash; tide pools, strong surf, nature trail]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.410977,37.227361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benicia State Recreation Area</name>
+        <description>Dogs on-leash; 720-acres of marsh, grassy hillsides, and rocky beaches along the narrowest portion of the Carquinez Strait.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.194061,38.073366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bernal Heights Dog Play Park</name>
+        <description>Dogs off-leash in a 20-acre natural area atop Bernal Hill, featuring trails and panoramic views.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.414861,37.743266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Break Regional Shoreline (EBRPD)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUECGbPN1Gllirlftg3QNJlhZuh20f37nbvAie-gNI_ZOGtVrAIlaAx9-ueHJpcw5rLH52gWYDO-wFNSrwtcvWaMrWZgYvCChF8VjuaUX-yoJ8JyXwI1ZvMHmAT2C-aC5XP82Qg4ZJpFUyxUd_yQ1Mf-vqMbHAfoStPE" height="200" width="auto" /><br><br>69 Big Break Rd., Oakley, CA 94561<br>Dogs must be on-leash and on-trail; Big Break Regional Trail runs along the park’s southern edge.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUECGbPN1Gllirlftg3QNJlhZuh20f37nbvAie-gNI_ZOGtVrAIlaAx9-ueHJpcw5rLH52gWYDO-wFNSrwtcvWaMrWZgYvCChF8VjuaUX-yoJ8JyXwI1ZvMHmAT2C-aC5XP82Qg4ZJpFUyxUd_yQ1Mf-vqMbHAfoStPE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.731974,38.009005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bishop Ranch Regional Preserve (EBRPD)</name>
+        <description>444 acres of quiet and solitude</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.97717,37.750607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Diamond Mines Regional Preserve (EBRPD)</name>
+        <description>65 miles of trails; dogs who may react to grazing cattle should be on leash</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.861398,37.971782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blufftop Beach</name>
+        <description><![CDATA[West End of Poplar Street, offHighway One, Half Moon Bay, CA<br><br>Dogs (officially) on-leash; surrounded by steep bluffs, access beach from Coastside Trail]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.444172,37.455067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolinas Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFcIri_d4hxPDFyF4e-ZZXBPucGheWhT42kJslJglT6HqLMzyjXUCeaxrXD5ISo3y4h0XWce0clRq7maEgfkp1zxhV7d63kcuDTs2ezh7b14Wqtx0cVTDFiRus7kPNg2HRBN-gaKgwiSAEkWzcWzKq__0Xc4Sfb3BxRJw" height="200" width="auto" /><br><br>California]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFcIri_d4hxPDFyF4e-ZZXBPucGheWhT42kJslJglT6HqLMzyjXUCeaxrXD5ISo3y4h0XWce0clRq7maEgfkp1zxhV7d63kcuDTs2ezh7b14Wqtx0cVTDFiRus7kPNg2HRBN-gaKgwiSAEkWzcWzKq__0Xc4Sfb3BxRJw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.682484,37.906852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bolinas Ridge Trail</name>
+        <description><![CDATA[Sir Francis Drake Blvd., Olema, CA <br>parksconservancy.org/visit/park-sites/bolinas-ridge.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.744101,37.961492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brotherhood Mini Off Leash</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGMEHFgvyyHTaLGJs4vOxfOvOE8UPMkf3LwejmHrdqf9RPoxCZYjBAGVPemBYN90kyxKCypqHjP6brrg6288FFqKfzZzG1lOPQNM5ynaimDozmqnYXER-rLOYFUO0Ip2N6gU0_rZv6D70p50DC_cr6-_JslEklGwj3Y9Q" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGMEHFgvyyHTaLGJs4vOxfOvOE8UPMkf3LwejmHrdqf9RPoxCZYjBAGVPemBYN90kyxKCypqHjP6brrg6288FFqKfzZzG1lOPQNM5ynaimDozmqnYXER-rLOYFUO0Ip2N6gU0_rZv6D70p50DC_cr6-_JslEklGwj3Y9Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.463537,37.71214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buena Vista Park Dog Play Area</name>
+        <description><![CDATA[Buena Vista West and Central.<br>Dogs off-leash in dog play area; steep, woody, canopied trails through large park overlooking Haight-Ashbury district.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.44194,37.768001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cesar Chavez State Park Dog Play Area</name>
+        <description><![CDATA[11 Spinnaker Way<br>Berkeley, CA 94710<br><br>17-acre off-leash dog area within 90-acre park; panoramic views]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.318687,37.872008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cipriani Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFyxAfeIlQUh94LkJPZfe5kiX4kho2Wl4PYKCsn3zIvks1Y0QtlgkkI_mBFmCuU4tHKdXU7dI1QVw2Hx_mqwXo-d4aZrxittcCpPwUwgTQ56-44UzBWBPu_NV9uR3DGrF3QeVvs7Wrckr2tonx7_BTkHnakj2bZDd3h6g" height="200" width="auto" /><br><br>2525 Buena Vista Ave, Belmont, CA 94002<br>Small park with small and large dog areas]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFyxAfeIlQUh94LkJPZfe5kiX4kho2Wl4PYKCsn3zIvks1Y0QtlgkkI_mBFmCuU4tHKdXU7dI1QVw2Hx_mqwXo-d4aZrxittcCpPwUwgTQ56-44UzBWBPu_NV9uR3DGrF3QeVvs7Wrckr2tonx7_BTkHnakj2bZDd3h6g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.306447,37.515966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coal Creek Open Space Preserve (MROSD)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFPoZ7u-nebA5M5cSLlvt7Iau3j_XFNGCjOOF8dgtMz9CUl1Z0PlOvXXQNl4dZgRtlc8Enf3_FQl0D-AUbOKjTYlP0u0RYJKOkiIlgBwi9Zh5gzp3fwBarn94XEtvCqCvAy6-bUTSBhFqTS647yj94_spx_hrJ7dUUAhg" height="200" width="auto" /><br><br>19760 Skyline Blvd, Redwood City, CA 94062<br><br>Dogs on-leash and on-trail; 5.4 miles of trails through 508 acres providing “ideal” hikes, with views of San Francisco Bay from open grassland ridges.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFPoZ7u-nebA5M5cSLlvt7Iau3j_XFNGCjOOF8dgtMz9CUl1Z0PlOvXXQNl4dZgRtlc8Enf3_FQl0D-AUbOKjTYlP0u0RYJKOkiIlgBwi9Zh5gzp3fwBarn94XEtvCqCvAy6-bUTSBhFqTS647yj94_spx_hrJ7dUUAhg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.211105,37.330785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Contra Costa Canal Trail (EBRPD)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHkSpxKw71AU9hH4w_WCn59MyjJuriNjeDsm_6FqnXAH0jhvhUkR3quV3OqcDqrScVBrSR70zo3g-SD12znyToKfiTkWl9Scr-Xc0pUokQ9_XpJbMa1ctEz5Wp5b2-n0UyVHgHWKxMVZMlaj6c8KYdpYRVJ1sqV0s0yow" height="200" width="auto" /><br><br>Pleasant Hill, CA<br><br><br>Popular trail meandering along the canal and connecting to other major trails and parks]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHkSpxKw71AU9hH4w_WCn59MyjJuriNjeDsm_6FqnXAH0jhvhUkR3quV3OqcDqrScVBrSR70zo3g-SD12znyToKfiTkWl9Scr-Xc0pUokQ9_XpJbMa1ctEz5Wp5b2-n0UyVHgHWKxMVZMlaj6c8KYdpYRVJ1sqV0s0yow</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.026057,37.961477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cordelia Community Dog Park  </name>
+        <description>1300 Gold Hill Road, Fairfield, CA</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.139816,38.177751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corona Heights Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGR5sGTB1VyTzZxvECRh3rNqY9d9S81t79J_EWi8rCNlzpEUfJ23ihiv3wUJ1jPtzG0EruqjJUKF_mPKKLQJA-BG7Ux0UMaltDkjdwZ1BbuM6kpG37oiSm55u8FzZMSiJzSi1ZCC63yAJuMyVqEUfKVd_lXTZoMHnhz" height="200" width="auto" /><br><br>Field area adjacent to Randall Museum at Roosevelt Way. Fenced in dog run at<br>Museum Way and Roosevelt Ave.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGR5sGTB1VyTzZxvECRh3rNqY9d9S81t79J_EWi8rCNlzpEUfJ23ihiv3wUJ1jPtzG0EruqjJUKF_mPKKLQJA-BG7Ux0UMaltDkjdwZ1BbuM6kpG37oiSm55u8FzZMSiJzSi1ZCC63yAJuMyVqEUfKVd_lXTZoMHnhz</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.439065,37.76454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crissy Field Dog Play Area (GGNRA)</name>
+        <description><![CDATA[100-acre shoreline park with grassy open fields and beaches; off-leash rules are evolving; check with GGNRA.<br>(Beast of the Bay 2013 Best Dog Park runner-up )]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.466788,37.805512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crocker-Amazon/McLaren Park</name>
+        <description><![CDATA[One-acre area off Geneva Ave. [past sports fields up hill]<br><br>San Francisco, CA 94112]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.419109,37.716961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cordelia Community Park</name>
+        <description>Fenced small and large dog areas within 48-acre community park; 1.5-acre large dog area with views of Suisun Marsh</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.140896,38.17758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DeLaveaga Park</name>
+        <description>Dogs off-leash within designated area; gently sloping ¼-mile trail is one of the few off-leash trails in the county.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.001865,36.999819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Del Valle Regional Park (EBRPD)</name>
+        <description>Dogs on-leash in developed areas; under sight and voice control beyond trailhead gate; lake with dog-swimmable shoreline trails</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.702445,37.592397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dillon Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.964914,38.249766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dogbone Meadow Park</name>
+        <description>Community-inspired fenced dog park with woodchip path and play structures</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.618031,38.120241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dolores Park Dog Play Area</name>
+        <description><![CDATA[Dogs off-leash in two dog play areas in this busy, typically sunny, Mission District park.<br>1. Church and 19th Sts.<br>2. 19th St.and Dolores<br>San Francisco, CA 94110]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.427177,37.758909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Douglas Playground Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHkaHLETTcuMivBJDzKAMQ_YncEosxVAJ9FvKwHDcIkVkJIPgW22OIhYU3kKbjVWiyEWuTmGotOH6YRWP0OSLimDLGFICqaTeau7z6lMzycXxBb5Ldj3_vRk1e7Gv-jhm6T5UOJKk83R5Zq-3T0ZIeKAwO7Vlb-HiWJuQ" height="200" width="auto" /><br><br>27th St and Douglass<br>San Francisco, CA 94131]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHkaHLETTcuMivBJDzKAMQ_YncEosxVAJ9FvKwHDcIkVkJIPgW22OIhYU3kKbjVWiyEWuTmGotOH6YRWP0OSLimDLGFICqaTeau7z6lMzycXxBb5Ldj3_vRk1e7Gv-jhm6T5UOJKk83R5Zq-3T0ZIeKAwO7Vlb-HiWJuQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.438936,37.746524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dougherty Valley Bark and Ride</name>
+        <description>4.5-acre dog park attached to 50-space park-and-ride; separate small and large dog areas</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.919231,37.771393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duboce Park Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFFOMLzW9RDbT2tsTgxHSFrNE-kPNAa8sscBnF3qB26QKiunersWN6YbPdcJiqyJBzzxkTWReaXeitiFsWJSY3DWhEFYZ7j0us-wNptODO_QZcEzTYSBRCZBfPeyg5ZS4pmrMvyjptojloE_jgCOpqQllxcCHe6VImqvg" height="200" width="auto" /><br><br>Specific area set aside for off-leash dog play]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFFOMLzW9RDbT2tsTgxHSFrNE-kPNAa8sscBnF3qB26QKiunersWN6YbPdcJiqyJBzzxkTWReaXeitiFsWJSY3DWhEFYZ7j0us-wNptODO_QZcEzTYSBRCZBfPeyg5ZS4pmrMvyjptojloE_jgCOpqQllxcCHe6VImqvg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.433271,37.769527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunn Trail</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEzQCDYtpHcbGSl1CKw9_uPKXC1v12vduQwKbhcB086Rreks8qWpxyKDZrvoSCJlqqxJFYyycZpGsJJQjbRcZ99Y_0YzUm19C3tFmApWT_XlkD_Z12nLfSuNs0w6-QXLs_LLDV91ZChM5Q4yxTySPO3EPJlmDRiQDo7" height="200" width="auto" /><br><br>Oakland, CA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUEzQCDYtpHcbGSl1CKw9_uPKXC1v12vduQwKbhcB086Rreks8qWpxyKDZrvoSCJlqqxJFYyycZpGsJJQjbRcZ99Y_0YzUm19C3tFmApWT_XlkD_Z12nLfSuNs0w6-QXLs_LLDV91ZChM5Q4yxTySPO3EPJlmDRiQDo7</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.177753,37.805817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Fort Miley</name>
+        <description>Mixed use park in GGNRA - plenty of parking. Pt Lobos to 48th Ave.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.503867,37.782519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ed Levin Park</name>
+        <description><![CDATA[3100 Calaveras Rd, Milpitas, CA<br>(408) 262-6980<br><br>"Hands down the best dog park in the bay area. -There is actually GRASS and its not littered with dog poop. -The people here really make the experience better]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.864471,37.467501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eureka Valley Park Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFNI6gwuM5GdRGU_Ztr3_Sl5E3y1ot5r8p2QROplDIl-YRR9oHm43wCMk-fwjYFN7W2zw6lQjfCRdjIZIYuXSIYZ0ue4Q0w6Rh9Pt4Af_Dm-OA1w4NP38xpxKi9jTNnCPs2rh1Da8nxzFTwJVXylJKSKvFL1JiOJ8Swvg" height="200" width="auto" /><br><br>East of baseball diamond<br>19th St. and Collingwood<br>San Francisco, CA 94114]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFNI6gwuM5GdRGU_Ztr3_Sl5E3y1ot5r8p2QROplDIl-YRR9oHm43wCMk-fwjYFN7W2zw6lQjfCRdjIZIYuXSIYZ0ue4Q0w6Rh9Pt4Af_Dm-OA1w4NP38xpxKi9jTNnCPs2rh1Da8nxzFTwJVXylJKSKvFL1JiOJ8Swvg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.436662,37.759655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Field of Dogs Dog Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.52923,37.998818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Street Green and Beaches</name>
+        <description><![CDATA[Benicia, CA<br>beniciadogs.com/index.php<br><br>Dogs on-leash; dog-swimmable beaches immediately to the right and left of the First Street spit on the Carquinez Strait shoreline.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.16445,38.044323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Flag Hill Trail (EBRPD), Sunol Regional Wilderness</name>
+        <description><![CDATA[1895 Geary Rd, Sunol, CA 94586<br>Great hiking trail within 6,859-acre wilderness; views of Alameda Creek watershed and Calaveras Reservoir]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.828308,37.510506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foothills Open Space Preserve (MROSD)</name>
+        <description><![CDATA[3802 Page Mill Rd, Los Altos, CA<br>.<br>Dogs on leash and under voice control; carry leash and keep dogs under sight and voice control; 212 acres of grassy ridgetops, slopes, and woodlands in the Adobe Creek watershed above Hidden Villa Ranch]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.173186,37.351101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Funston Dog Play Area (GGNRA)</name>
+        <description><![CDATA[Dogs off-leash under voice control; 200-acre oceanfront park, rich with trails, bluffs, dunes, beaches, and views; off-leash rules evolving, check with GGNRA.<br>(Beast of the Bay 2013 Best Hiking Trail winner; Beast of the Bay 2013 Best View with a Dog winner; Beast of the Bay 2013 Best Dog Park runner-up)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.502022,37.707726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foster City Bark Park</name>
+        <description>Small and large dog areas adjacent to Boat Park and on-leash lagoon walks</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.260382,37.556075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francis Beach Coastal Trail</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHLWz380ys4rciRoaz4aXC-ryvUQA_0Zczkn-qSPXbbZp-EUxNyzkP5lJhymUvV8waXXHyVHAp2YB53Ie76WqrZ5RBJZQQdYcvp-QTibj5kVNlyCIBZMmBt1af-c_0Oe_n5A4ndxCmEf-0EwyAhfVUDI84dmmpCuBunsQ" height="200" width="auto" /><br><br>Francis Beach, Half Moon Bay, CA 94019<br><br>Dogs on-leash and on-trail; 5-mile trail along scenic ocean bluffs within Half Moon Bay State Park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHLWz380ys4rciRoaz4aXC-ryvUQA_0Zczkn-qSPXbbZp-EUxNyzkP5lJhymUvV8waXXHyVHAp2YB53Ie76WqrZ5RBJZQQdYcvp-QTibj5kVNlyCIBZMmBt1af-c_0Oe_n5A4ndxCmEf-0EwyAhfVUDI84dmmpCuBunsQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.446087,37.469385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frederick Street Park</name>
+        <description>Dogs off-leash in marked area; trail, grassy fields, and ocean views in this community park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.001692,36.972172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fremont Older Open Space Preserve (MROSD)</name>
+        <description>Dogs off-leash and on-trail; carry leash and keep dogs under sight and voice control; 9 miles of trails in 739-acre preserve featuring open hayfields and a hilltop with views</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.063859,37.284496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garin/Dry Creek Pioneer (EBRPD)</name>
+        <description><![CDATA[Garin/Dry Creek Pioneer<br>1320 Garin Ave<br>Hayward, CA 94544<br><br>Get Directions<br>(510) 582-2206<br>ebparks.org]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.01828,37.625245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glen Canyon Park</name>
+        <description><![CDATA[Bosworth St. and Diamond Heights Blvd.<br>Dogs (officially) on-leash; wild, 70-acre city park with trails looping through wooded canyons - watch for coyotes!]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.440267,37.735426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glen Park Off Leash</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEO8NcdXSkMwVRVACk1IxVPWwxt_hntck7u0SjZdMCVI2V8G-NRfm0DIG_jT-aSqhTanv34aaE92TgZHsgFeLw-_ZqhABA1m--9IyRDPvG9ibA_VCJjwrHpWJERPCQh4mCnwPAQXgafnESZTMLhVLca-yACGkBmmaRh" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUEO8NcdXSkMwVRVACk1IxVPWwxt_hntck7u0SjZdMCVI2V8G-NRfm0DIG_jT-aSqhTanv34aaE92TgZHsgFeLw-_ZqhABA1m--9IyRDPvG9ibA_VCJjwrHpWJERPCQh4mCnwPAQXgafnESZTMLhVLca-yACGkBmmaRh</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.441683,37.736852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gate Park - Dog Play Area 1</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUH9Cf_G5R1qxsKUXSOY5pZULWRqN5db90w3pAMfo3smpIsNQtZZeZbxw00o8g0JMKoVO3XciPi9EggkIKsn_1OoH7JT0RzDH4-zbR26rPyi7n_3ySbri9aEo6xDR66Unhazj6yVUuhSpCKc4R3B2KhjBJhbxcJNCdGuRg" height="200" width="auto" /><br><br>M.L. King Jr. Dr. & Bowling Green Dr. sfrecpark.org/destination/golden-gate-park/ggp-dog-play-area-1]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUH9Cf_G5R1qxsKUXSOY5pZULWRqN5db90w3pAMfo3smpIsNQtZZeZbxw00o8g0JMKoVO3XciPi9EggkIKsn_1OoH7JT0RzDH4-zbR26rPyi7n_3ySbri9aEo6xDR66Unhazj6yVUuhSpCKc4R3B2KhjBJhbxcJNCdGuRg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.461746,37.766604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gate Park - Dog Play Area 2</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEVO4F2WtDiJGR3kIxZMSySiRFq1TkakviM6Y-qcFEz-cguy_MgmB7B7-9qqolc76O3-k91J_OF_awgGztDMiXYj0SM8EbSj4MMu9zghF3tp2PoaFQre8z9bGHbIT6FEQ4oKKMdvN7y_V8L5lfYtmNNFF4FL1dTskgOpA" height="200" width="auto" /><br><br>Fulton St. & Stanyan St.<br>sfrecpark.org/destination/golden-gate-park/ggp-dog-play-area-2]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUEVO4F2WtDiJGR3kIxZMSySiRFq1TkakviM6Y-qcFEz-cguy_MgmB7B7-9qqolc76O3-k91J_OF_awgGztDMiXYj0SM8EbSj4MMu9zghF3tp2PoaFQre8z9bGHbIT6FEQ4oKKMdvN7y_V8L5lfYtmNNFF4FL1dTskgOpA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.454988,37.774492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gate Park - Dog Play Area 3</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFllpLpGTjpJXXnG2B077zUIMdq14Y8SaoLklCS1y36yHKkP_iJ1KEzWbTpjeA06fnfkKQf5Neb7hPle6oVKzlGKZ0v3HkERUG50g3hh28m5x9dT72I6_x98N8MMxgvX4lVp2VDq-79e2uL3Re5NVb4jeESNwOEAqv1DA" height="200" width="auto" /><br><br>M.L. King Jr. Dr. & Sunset Blvd.<br>sfrecpark.org/destination/golden-gate-park/ggp-dog-play-area-3]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFllpLpGTjpJXXnG2B077zUIMdq14Y8SaoLklCS1y36yHKkP_iJ1KEzWbTpjeA06fnfkKQf5Neb7hPle6oVKzlGKZ0v3HkERUG50g3hh28m5x9dT72I6_x98N8MMxgvX4lVp2VDq-79e2uL3Re5NVb4jeESNwOEAqv1DA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.495369,37.765939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gate Park - Dog Training Area</name>
+        <description>fenced, all-sand dog training area off 36th Ave. at Fulton.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.49943,37.770986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hap Magee Park - Dog Park</name>
+        <description>1.5 off-leash acres; separate small and large dog areas</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.017031,37.837912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hardy (Frog) Dog Park (CCDP)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGuFgrD2N-YKZXwIkIbKfICShC07Jkz4uyYerE3AImUcLiKpFpN4rTzuezmNNJEuczMtIxBQREIP-yMnU6TNVarn2ZksmK4vNgYoVx-tzqmip5R-Cy5SQY6udM2SHk7WIoeyRkTa0PBIlfq4CZ6rDNqtaw3Rz5HUkHl" height="200" width="auto" /><br><br>491 Hardy Street<br>Oakland, CA 94116<br>Fenced, off-leash Dog Play Area within Rockridge-Temescal Greenbelt]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGuFgrD2N-YKZXwIkIbKfICShC07Jkz4uyYerE3AImUcLiKpFpN4rTzuezmNNJEuczMtIxBQREIP-yMnU6TNVarn2ZksmK4vNgYoVx-tzqmip5R-Cy5SQY6udM2SHk7WIoeyRkTa0PBIlfq4CZ6rDNqtaw3Rz5HUkHl</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.25749,37.841953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hayward Regional Shoreline (EBRPD)</name>
+        <description>1,811 acres of marshes, wetlands, and trails; dogs not allowed south of Winton Ave.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.144169,37.649719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heather Farm Dog Park</name>
+        <description>1-acre off-leash dog park at north end of Heather Farm Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.0452,37.923152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Henry Cowell Redwoods State Park</name>
+        <description>Dogs on-leash on park entrance road, picnic area, Meadow Trail, Graham Hill Trail, and 3.3-mile Pipeline Road</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.042787,37.030731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holly Park dog Play Area</name>
+        <description><![CDATA[Holly Park Circle and Appleton<br>San Francisco, CA 94110]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.420075,37.737378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Independence Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.78116,37.649508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Its Dog Beach</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUESuqpb56Hq49CIbdqMJIfDpCQcOfewxcnfDFPGRVTv7LF8XjFZiVx_YmfGvuQDmBnfl0tUYqrPZDcMLPG-6371eYIBLX3zaSCIB4--mscS7HJseoYW9a5iDf0v-TcB2_FwXod8iYvbh_YPPM3xj7sYDSrTN8_Z4_tCYQ" height="200" width="auto" /><br><br>W Cliff Dr., Santa Cruz, CA 95060<br><br>Dogs allowed off-leash on beach after 4 pm; stairs lead down to small beach west of Lighthouse Point]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUESuqpb56Hq49CIbdqMJIfDpCQcOfewxcnfDFPGRVTv7LF8XjFZiVx_YmfGvuQDmBnfl0tUYqrPZDcMLPG-6371eYIBLX3zaSCIB4--mscS7HJseoYW9a5iDf0v-TcB2_FwXod8iYvbh_YPPM3xj7sYDSrTN8_Z4_tCYQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.040514,36.953286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Janine Jordan Dog Park at Lagoon Valley Park</name>
+        <description><![CDATA[Formerly a "member's only" park run privately, now owned and operated by the City of Vacaville. More info: www.ourdogpark.org/index.php<br><br>Non-PAWS Members and other visitors wishing to visit the park must pay the Lagoon Valley Park entrance fee of $3 (goes to the City of Vacaville), and must sign a Waiver of Liability form before entering the dog park. No other fee is required to visit the dog park.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.014648,38.335008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jefferson Square</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFdm_XwRVp_qa-8er6mbguVdilKKbr9RCpMYfXuSmXdM3TnJVJlc_A52LLAGLkODHHEXwTNaS5BYRwZ02pvzTWP9QtUZQP9WWASkh7pacotLCdjN_guCVbi36iqWa8H9yV-7WnWelaDO82Egi6gtsefhaRy27kO4K-uaQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFdm_XwRVp_qa-8er6mbguVdilKKbr9RCpMYfXuSmXdM3TnJVJlc_A52LLAGLkODHHEXwTNaS5BYRwZ02pvzTWP9QtUZQP9WWASkh7pacotLCdjN_guCVbi36iqWa8H9yV-7WnWelaDO82Egi6gtsefhaRy27kO4K-uaQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.278476,37.801002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joaquin Miller Park  (CCDP)</name>
+        <description><![CDATA[Sanborn Rd., Oakland, CA<br>Separate small and large dog parks totaling 1.25 acres within 500-acre park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.188654,37.811615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lafayette Park Off Leash</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.425461,37.781841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lands End (GGNRA)</name>
+        <description><![CDATA[Dogs off-leash with caution and under voice control; rugged, sometimes hazardous oceanview trails; off-leash rules are evolving; check with GGNRA<br>(Beast of the Bay 2013 Best View with a Dog runner-up)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.511549,37.780382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Chabot Regional Park (EBRPD)</name>
+        <description><![CDATA[17936 Lake Chabot Rd., Castro Valley, CA 94546<br><br>20 miles of hiking trails]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.11132,37.736784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Animas Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.583378,37.022139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Palmas Dog Park</name>
+        <description>Well-shaded 24-acre Polynesian-themed park featuring a picturesque pond. Check for dog restrictions.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.038997,37.365492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Limantour Beach (NPS)</name>
+        <description><![CDATA[Point Reyes National Seashore, Point Reyes Station, CA<br>nps.gov/pore/planyourvisit/beaches.htm]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.882767,38.028757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Gatos Creek Dog Park</name>
+        <description><![CDATA[Dogs on-leash on 11-mile regional creekside trail traversing multiple jurisdictions; dogs off-leash in fenced dog park with small and large dog areas.<br><br>(Beast of the Bay 2013 Best View with a Dog runner-up)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.949333,37.271569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Marin Humane Society</name>
+        <description>Dog parks available for public use during specified hours.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.53624,38.068559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McKinley Off Leash</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.404819,37.75901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>McLaren Park</name>
+        <description><![CDATA[Mansell St. and John F. Shelley Dr.<br><br>348-acres; dogs off-leash in two DPAs; dog-swimmable lake on east side of Shelley Loop.<br><br>sfrecpark.org/destination/john-mclaren-park/mclaren-amphitheatre-dog-play-area]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.420526,37.721612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mission Bay Park has a fenced in Dog Play Area - 420 Berry St</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFXMpouTbt2SlzmdSEvMDQSoHFutf7VwwdNdjQCNV2J9_M0OQFWaTo-1JI9ApRyM9QRXJRHSHzFuusaCHPeMFY4dxWdH_-Z_uvRClQDWKOE5P4h6xiz1MaC28w_KxrgAxxIUnSt-KRQdIXznnqXxtLJC9qN2DgGGAy9fA" height="200" width="auto" /><br><br>San Francisco, CA 94107]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFXMpouTbt2SlzmdSEvMDQSoHFutf7VwwdNdjQCNV2J9_M0OQFWaTo-1JI9ApRyM9QRXJRHSHzFuusaCHPeMFY4dxWdH_-Z_uvRClQDWKOE5P4h6xiz1MaC28w_KxrgAxxIUnSt-KRQdIXznnqXxtLJC9qN2DgGGAy9fA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.400652,37.770059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mitchell Park Dog Run</name>
+        <description><![CDATA[3800 Middlefield Rd., Palo Alto, CA<br>Large all-sizes dog park within a larger community park surrounded by “suburban paradise”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.114003,37.41991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mitchell's Cove Beach]]></name>
+        <description>Dogs off-leash and under voice control between sunrise and 10 am and from 4 pm to sunset; dogs on-leash other hours; stairs lead down to unfenced, unmarked beach with rocks and cliffs.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.040896,36.952978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Miwok Park</name>
+        <description>On-leash; shady, 35-acre multi-use park with dog-swimmable creek.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.598775,38.11394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montara Beach (GGNRA)</name>
+        <description><![CDATA[Highway 1, Montara, CA 94019<br><br>Dogs on-leash; tide pools, strong surf, nearby amenities]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.514948,37.546887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morgan Territory Regional Park</name>
+        <description>4,708-acre park with ridgetop views</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.816403,37.836112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosswood Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHKeF7O-6ls8tXqAOnh006SYWJCifGrSU5oGMeDjcRs7PHPAbU34soVsGQ99ejV5F7EcAwu_Lq1Bd6ULnYO1R28OIirpVL3jEZlgbU_FvEVs4-HBkPllarFmlEKszhITPbooA4dPUqJNlcbXOqoeKfm19Zh87UfoXXa" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHKeF7O-6ls8tXqAOnh006SYWJCifGrSU5oGMeDjcRs7PHPAbU34soVsGQ99ejV5F7EcAwu_Lq1Bd6ULnYO1R28OIirpVL3jEZlgbU_FvEVs4-HBkPllarFmlEKszhITPbooA4dPUqJNlcbXOqoeKfm19Zh87UfoXXa</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.261224,37.823345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mountain Lake Park Dog Play Areas</name>
+        <description>Mixed-use park accessible from Lake St., either side of Park Presidio: 15th Ave or 7th Ave entrance; also a specific dog play at 8th Ave/Lake.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.468762,37.787742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morgan Hill Dog Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.647383,37.11218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muir Beach (NPS)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHwRLZf3vdYUyS-OB3HGnQAUQIpcqb3wS2SaRXbZSKj900pm-oGgL6ohCDOTFE7floJpkUchXVotaNlcrxybApOke15H327IuZTvtcqkDxZ-FVpoDZe3sbHhC9Ef5p3pZwQ73UdTLL0qhR0PmRflQmA2h9Qj7A9V7mo" height="200" width="auto" /><br><br>Highway 1, Sausalito, CA<br>parksconservancy.org/visit/park-sites/muir-beach.html]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHwRLZf3vdYUyS-OB3HGnQAUQIpcqb3wS2SaRXbZSKj900pm-oGgL6ohCDOTFE7floJpkUchXVotaNlcrxybApOke15H327IuZTvtcqkDxZ-FVpoDZe3sbHhC9Ef5p3pZwQ73UdTLL0qhR0PmRflQmA2h9Qj7A9V7mo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.580643,37.862928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Muirwood Community Park</name>
+        <description><![CDATA[4701 Muirwood Dr., Pleasanton, CA<br>Separate small and large dog runs within community park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.917088,37.683519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Newhall Community Park “Paw Patch”</name>
+        <description>Fenced, off-leash dog park within community park along Galindo Creek</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.982146,37.95737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Beach (GGNRA)</name>
+        <description>3.5 miles of open beach; dogs off-leash north of Beach Chalet (stairwells 1-21); dogs on-leash south of Beach Chalet to Sloat Ave.; off-leash rules evolving, check with GGNRA for updates.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.511978,37.763217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean View Park</name>
+        <description>Dogs off-leash; adjacent to Jessie Street Marsh with views of the Boardwalk and Monterey Bay</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.013956,36.96955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ohlone Park Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHs9ddPHanXV9i6rNqbGrP4R5YI6JfLP-tKhtr8SgN7Jn8XBbqBnFFhrRD1FvuVblBMyFVORg3WDRU4elgICtfyC-FNqLe9URr44sCO46YnfC11KoU1fYMAuIwVfjAkoefOcCbiju-HGVs0rG0wNlYVO2Ulc0mMvIx1cw" height="200" width="auto" /><br><br>1701 Hearst Avenue<br>Berkeley, CA<br>“Experimental” off-leash dog park in the heart of Berkeley]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHs9ddPHanXV9i6rNqbGrP4R5YI6JfLP-tKhtr8SgN7Jn8XBbqBnFFhrRD1FvuVblBMyFVORg3WDRU4elgICtfyC-FNqLe9URr44sCO46YnfC11KoU1fYMAuIwVfjAkoefOcCbiju-HGVs0rG0wNlYVO2Ulc0mMvIx1cw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.279334,37.872753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oyster Bay Regional Shoreline</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEuM7PCR1bnns5QGlgR8LCDNdm2Dol-dutx9kYlchWb1-XjNMQ393PSymSplSnmIqeV6D9oqv9cC6FLv40tYwPqFfQpqo2anMmUpZ29L5dX-ISmz47ZMOcdLy-_qZxTH905Z43dx826nNO3STp0wEzu3PbT72X8G0agdQ" height="200" width="auto" /><br><br>+37° 42' 33.96", -122° 11' 32.46"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUEuM7PCR1bnns5QGlgR8LCDNdm2Dol-dutx9kYlchWb1-XjNMQ393PSymSplSnmIqeV6D9oqv9cC6FLv40tYwPqFfQpqo2anMmUpZ29L5dX-ISmz47ZMOcdLy-_qZxTH905Z43dx826nNO3STp0wEzu3PbT72X8G0agdQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.19235,37.709433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panhandle Park</name>
+        <description>the extension of Golden Gate Park, near DMV</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.444725,37.772674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paso Nogal Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.085875,37.964015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pena Adobe/Lagoon Valley Regional Park</name>
+        <description>Dogs on-leash; 30,000-square-foot dog park within well-developed 470-acre multi-use park featuring hiking trails and Lagoon Valley Lake</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.014645,38.335006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Phenix Dog Park @ Benicia Community Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGTEDdDAB9NPuhSYqA_uiwZA3jUUqFUZLaLVRV26gf-2fxH487v3Pcv9qO_9qhPSn_kpeuLZ24fZvRRAFVilnYKlB9_CthDhIgqomEdEiSY_Wiycy57gYNso8q7sySyj5tO3viGzZO33_ugpoI8dgmIeVYG9c06hLg" height="200" width="auto" /><br><br>Dempsey Dr., Benicia, CA 94510<br><br>Popular, shady 1-acre dog park within Benecia Community Park; fenced small and large dog areas.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGTEDdDAB9NPuhSYqA_uiwZA3jUUqFUZLaLVRV26gf-2fxH487v3Pcv9qO_9qhPSn_kpeuLZ24fZvRRAFVilnYKlB9_CthDhIgqomEdEiSY_Wiycy57gYNso8q7sySyj5tO3viGzZO33_ugpoI8dgmIeVYG9c06hLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.160348,38.086446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pillar Point Marsh and Shoreline</name>
+        <description><![CDATA[West Point Ave., Princeton-by-the-Sea, CA<br>Dogs on-leash; shoreline and bluff trails near site of famous Mavericks surfing competition]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.493042,37.502253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pinole Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUG8J2f6ea0wXM1j8nPhybi4RS7CzFsJCKruOU90cwxUcB2RjJqhggEq_Wr_rES-lX34Lpz5t3xL3EC4WuyJzTnJPOArELkKUFkQD7x4Mp6z6xylBww0Sxg-IRl7kUKZQ5ehJdwDkqVubiBlOIj-HprQDnaQE9sxTpOnFg" height="200" width="auto" /><br><br>There are two dog parks in Pinole, behind the firehouse. On one side of a path that runs between them is a fenced "big dog" area, on the other is a fenced "small dog" area.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUG8J2f6ea0wXM1j8nPhybi4RS7CzFsJCKruOU90cwxUcB2RjJqhggEq_Wr_rES-lX34Lpz5t3xL3EC4WuyJzTnJPOArELkKUFkQD7x4Mp6z6xylBww0Sxg-IRl7kUKZQ5ehJdwDkqVubiBlOIj-HprQDnaQE9sxTpOnFg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.290163,38.00447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pinto Lake Interim Use Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUErsXgrcH0vxE5UCFAk99xYKMVw41xsRZqnqaSD-UxXWq-1bj7un7yvYsx0Ugf9h06aCKNoMlSaR-sEcD6nZMAPCcadEvy0O_kFFarkF7JVFJBKAENEJLYHbTgGGF8XCm6VHp8V3V-tDyPrM6bazygTA2sG55s-42Z6pQ" height="200" width="auto" /><br><br>757 Green Valley Rd., Watsonville, CA 95076<br><br>Small, shady dog park located at the second entrance to Pinto Lake Park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUErsXgrcH0vxE5UCFAk99xYKMVw41xsRZqnqaSD-UxXWq-1bj7un7yvYsx0Ugf9h06aCKNoMlSaR-sEcD6nZMAPCcadEvy0O_kFFarkF7JVFJBKAENEJLYHbTgGGF8XCm6VHp8V3V-tDyPrM6bazygTA2sG55s-42Z6pQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.774143,36.962657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pioneer Park</name>
+        <description>On-leash; popular multi-use park featuring an old hilltop cemetery (dogs allowed).</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.589941,38.113427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pt. Isabel Regional Park Dog Play Area</name>
+        <description><![CDATA[2701 Isabel Street<br>Richmond, CA 94814<br>Landscaped 23-acre shoreline park with views of the Golden Gate and Marin; carry leashes and keep dogs under sight and voice control.<br>(Beast of the Bay Best Dog Park 2013 winner)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3224,37.904319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portrero Hill Mini Off Leash</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.397137,37.756941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Presidio, Mountain Lake Park dog play area (NPS)</name>
+        <description><![CDATA[Lake St. & 8th Ave.<br>Dogs on-leash over 11 miles of trails through this unique national park’s 1,491 forested acres; dogs off-leash at 10-acre Mountain Lake Park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.469149,37.787132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pulgas Ridge Open Space Preserve</name>
+        <description>Dogs off-leash in 17-acre area within a 366-acre preserve featuring 6 miles of hiking trails</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.29169,37.477914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redwood Regional Park (EBRPD)</name>
+        <description><![CDATA[Dogs on-leash in protected areas; 1,829 acres of coast redwoods laced with trails <br>(Beast of the Bay 2013 Best Hiking Trail runner-up)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.16615,37.813852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Remington Dog Park</name>
+        <description><![CDATA[The fenced dog area in this park is a welcome place for your dog to run free; with chairs and benches scattered around, and various toys laying about. Sometimes dogs can be seen atop 'their' picnic tables, surveying their more rambunctious fellow canines. With so many 'no dogs allowed' places in the Bay Area, it's nice to see that the local dog-lovers have taken matters into their own hands and made this park. Best approach to dog area is from Ebbtide Ave. to the north.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.504211,37.869889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rocky Memorial Dog Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.607608,38.229794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robert Sibley Volcanic Preserve</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGYZyMpGUI1lF3_f5dNnhXwgr53tnUKMJkhET1PgL460O0Yh3TdHEa58N7z0U4G11PMvdjdjeEeEkn8GYgx1bcJXLgNbjHx2x8NsenmFw2ODbOHR0bpaOJtK78ajbYbj-bllc_x4-dZal4304RE2UKT0gE6Zq9sD0Rxug" height="200" width="auto" /><br><br>6800 Skyline Blvd.<br>Oakland , ca 94611]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGYZyMpGUI1lF3_f5dNnhXwgr53tnUKMJkhET1PgL460O0Yh3TdHEa58N7z0U4G11PMvdjdjeEeEkn8GYgx1bcJXLgNbjHx2x8NsenmFw2ODbOHR0bpaOJtK78ajbYbj-bllc_x4-dZal4304RE2UKT0gE6Zq9sD0Rxug</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.18698,37.830429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Robert's Lake Dog Park]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.711669,38.368785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robertson Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.755877,37.669365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rockville Hills Regional Park</name>
+        <description>Dogs on-leash; 633 acres of grasslands and oak woodlands</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.141732,38.246045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roy M. Butcher Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGrMWvYWkFP53c4X-nmgerTwqu_ynCktsBXfg1a6w8DtWs-ZN8cviZjsqZ5hX4x_diUa7qdsZlcsXFhYdeSD7TyX6swTPxpls4zWwvfMHp8ien-qd8OMP_qFyhdoorecZLxF3uoZDofgZc0rPpuird0jR_-ieSolPWObw" height="200" width="auto" /><br><br>3950 Camden Ave., San Jose, CA 95124<br><br>Popular dog park noted for its “lively and dedicated patrons”]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGrMWvYWkFP53c4X-nmgerTwqu_ynCktsBXfg1a6w8DtWs-ZN8cviZjsqZ5hX4x_diUa7qdsZlcsXFhYdeSD7TyX6swTPxpls4zWwvfMHp8ien-qd8OMP_qFyhdoorecZLxF3uoZDofgZc0rPpuird0jR_-ieSolPWObw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.917343,37.25937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Joseph's Hill Open Space Preserve (MROSD)]]></name>
+        <description><![CDATA[17770 Alma Bridge Rd., Los Gatos, CA<br>Dogs off-leash and on-trail; carry leash and keep dogs under sight and voice control; 4 miles of trails through 270-acre preserve with panoramic views from popular St. Joseph's Hill.<br>openspace.org/preserves/pr_st_josephs.asp]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.984978,37.200663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[St. Mary's Park Dog Play Area]]></name>
+        <description><![CDATA[Lower park terrace<br>Murray St. and Justin Dr.<br>san francisco, ca 94112]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.420976,37.73378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Miguel Park</name>
+        <description>Off-leash from dawn until 9:00 a.m. only</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.037753,37.913251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seabright Beach</name>
+        <description>Dogs on-leash; long sandy beach on north side of Santa Cruz yacht harbor</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.007546,36.963981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seacliff and Rio Del Mar State Beaches</name>
+        <description>Dogs on-leash; wide strip of clean sand just south of the Boardwalk</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.912193,36.971427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seal Point Dog Park</name>
+        <description><![CDATA[J. Hart Clinton Drive, San Mateo, CA<br>Dogs off-leash in 3-acre DPA within Shoreline Park; on-leash walking trails through natural and restored habitat]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.299236,37.5731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selma Olinder Park</name>
+        <description><![CDATA[Woodborough Place, San Jose, CA<br><br>Small and large dog areas in 3/4-acre dog park at south end of community park.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.866027,37.332614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shell Ridge Open Space</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUF37VaZxjDB57C6yZiwEqcd3YcxAD1ykhXiMUFUc8hrGL4cFxpDq6BVPGcAeDaSPChC9k7BBlo3BCzoNA_4rKCXw2fbFZSNjHXKXQ4pDdPFWhToxR352PgGB6fPXL5wOxvLYMTqqfCFbOWbcHMvadH7NA5Hg6nlj1JCOQ" height="200" width="auto" /><br><br>1035 Castle Rock Rd., Walnut Creek, CA 94598<br>Walnut Creek’s largest open space unit; rangers recommend leashing; off-leash dogs must be under sight and voice control]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUF37VaZxjDB57C6yZiwEqcd3YcxAD1ykhXiMUFUc8hrGL4cFxpDq6BVPGcAeDaSPChC9k7BBlo3BCzoNA_4rKCXw2fbFZSNjHXKXQ4pDdPFWhToxR352PgGB6fPXL5wOxvLYMTqqfCFbOWbcHMvadH7NA5Hg6nlj1JCOQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.001972,37.899934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shore Dogs Park</name>
+        <description>Small and large dog areas; adjacent to wetlands; subject to closure during rainy season</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.231088,37.542536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skypark Dog Park</name>
+        <description><![CDATA[361 Kings Village Rd., Scotts Valley, CA<br><br>Enclosed small and large dog areas, grassy open space; and lots of plastic doggie pools; located next to Skypark Park]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.030726,37.049543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stern Grove/Pine Lake Dog Play Areas</name>
+        <description><![CDATA[Two areas: Wawona St. between 21st and 23rd Ave. 24. Two-thirds of the Pine Lake meadow; there is also an off-leash trail connecting the dog play areas in Pine Lake and Stern Grove<br>19th Ave. and Wawona<br>San Francisco, CA 94116]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.490005,37.736716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stinson Beach (GGNRA)</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUGR2dFrczA2Pheuzbo6I91R-gHud3fMZQeDQqpTTMlRy3rDFbw-15Cyf4I1K0-GAGeyTlgSW6QtNARBjTTn_a34WfkUl3MBIbBPK_MBwhn2E60j_rgfwet6VjURnRDcyapnzVSFpigWrq72qgDFmlwNoRPloe3aTSvzPw" height="200" width="auto" /><br><br>dog restrictions apply.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUGR2dFrczA2Pheuzbo6I91R-gHud3fMZQeDQqpTTMlRy3rDFbw-15Cyf4I1K0-GAGeyTlgSW6QtNARBjTTn_a34WfkUl3MBIbBPK_MBwhn2E60j_rgfwet6VjURnRDcyapnzVSFpigWrq72qgDFmlwNoRPloe3aTSvzPw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.644426,37.900482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suisun Hill Trail at Rush Ranch Open Space</name>
+        <description><![CDATA[Grizzly Island Road, Suisun City, CA<br>rushranch.net/directions.php<br><br>Dogs on-leash around historic ranch buildings, driveway, and on Suisun Hill Trail; 2,070-acre open space and working cattle ranch adjacent to Suisun Marsh; 2-mile Suisun Hill loop trail to Potrero Hill is unshaded but offers 360-degree views.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.025179,38.209026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sycamore Grove Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.758726,37.627755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tilden Regional Park (EBRPD)</name>
+        <description>Dogs on-leash in developed areas - read signs; Lake Anza perimeter trail highly recommended. (Beast of the Bay 2013 Best View with a Dog runner-up)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.252276,37.896206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tri-Cities Dog Park</name>
+        <description>off of Stevenson Blvd, behind the Police Station and in front of the animal shelter.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.969115,37.553434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University Terrace Park</name>
+        <description>Dogs off-leash in partially-enclosed area within grassy community park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.05498,36.974266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upper Noe Valley Rec Center Dog Play Area</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUFQuQsKSF_HlJy_YSraLxhRdi-OxGik8luGNc2V_T4v6GCGi0QleYdsPcb7Wqhk6gwB9_gKdpLPFTuJ_pN0CKpRqaWq5LY7F9ZgB_Fg673dke4plRSzNkbQgvjRLS_9g2nK1oyixph18fbGqOB-PUs978CzDQGNR7zeKQ" height="200" width="auto" /><br><br>Areas adjacent to ball field; east of first base line, south of third base line<br>Day St. and Sanchez<br>San Francisco, CA 94131]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUFQuQsKSF_HlJy_YSraLxhRdi-OxGik8luGNc2V_T4v6GCGi0QleYdsPcb7Wqhk6gwB9_gKdpLPFTuJ_pN0CKpRqaWq5LY7F9ZgB_Fg673dke4plRSzNkbQgvjRLS_9g2nK1oyixph18fbGqOB-PUs978CzDQGNR7zeKQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.427435,37.7424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upton Beach</name>
+        <description><![CDATA[Highway 1, Stinson Beach, CA<br>marincountyparks.org/Depts/PK/Divisions/Parks/Upton-Beach<br><br>Dogs are allowed on leash.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.653454,37.90255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uvas Canyon Waterfall Loop Trail</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUEBS1JLz1XtMTRO0aI5UucBOTeRg6-sfXXBXdxqCKNJ-T-2mTVJ1CUpZMxLqFqfZnxdJI3pPzyzHAJXYQ6A7iEF3R9aKvk6u9AjiHCMrh01jR8M_NbI_LKJfnkgNl15CIMbml5BJrA8vj_td5hrMPZjhVwy9Y5GlgmZ6Q" height="200" width="auto" /><br><br>8515 Croy Rd., Morgan Hill, CA 95037<br><br>Dogs on-leash; 6 miles of hiking trails on 1,133 acres on the eastern side of the Santa Cruz Mountains, including a 1-mile Waterfall Loop along Swanson Creek.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUEBS1JLz1XtMTRO0aI5UucBOTeRg6-sfXXBXdxqCKNJ-T-2mTVJ1CUpZMxLqFqfZnxdJI3pPzyzHAJXYQ6A7iEF3R9aKvk6u9AjiHCMrh01jR8M_NbI_LKJfnkgNl15CIMbml5BJrA8vj_td5hrMPZjhVwy9Y5GlgmZ6Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -121.792765,37.084497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Walter Haas Playground and Dog Park</name>
+        <description>enclosed area</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.43443,37.740788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wardlaw Dog Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/umsh/AFiHsUHijHVI2lQLiMFIKwjkyyb7735tKx2XG0-aWWwyk8_NBcJLkNSDAaihdf6fRRPpAj-mz8A0DEHdh0En33CdjyLIJyKZDv451YA1kTJqPeVt-yJVOl0wWHLliuFVG5iklNmm-_KE8BAE-MQuoTPYjVugcOUi59qYNtzXLDGgTGMK8HuIqc6gDKHP24fvqQ" height="200" width="auto" /><br><br>1805 Ascot Pkwy., Vallejo, CA 94591<br>Well-developed, landscaped 2.2-acre dog park; fenced small and large dog areas]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/umsh/AFiHsUHijHVI2lQLiMFIKwjkyyb7735tKx2XG0-aWWwyk8_NBcJLkNSDAaihdf6fRRPpAj-mz8A0DEHdh0En33CdjyLIJyKZDv451YA1kTJqPeVt-yJVOl0wWHLliuFVG5iklNmm-_KE8BAE-MQuoTPYjVugcOUi59qYNtzXLDGgTGMK8HuIqc6gDKHP24fvqQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.206339,38.118269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Water Dog Lake Park</name>
+        <description>Dogs on-leash; dog-swimmable lake and a variety of trails in the largest park in Belmont</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.310397,37.508547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wildcat Canyon Regional Park (EBRPD)</name>
+        <description>2,430 acres along the Wildcat Creek watershed and the surrounding hills and ridges</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.282402,37.933198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Windy Hill Open Space Preserve</name>
+        <description>Dogs on-leash; 1,335 acres of grassland ridges and forests and 12 miles of trails (not all trails are designated dog-friendly)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.23419,37.362565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
